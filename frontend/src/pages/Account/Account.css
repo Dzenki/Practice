@@ -1,0 +1,24 @@
+.account{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin: 20px 0px;
+}
+
+.logout button{
+    width: 79vw;
+    background-color: #141414;
+    border: thin solid #00DE0E;
+    color: #00DE0E;
+    border-radius: 50px;
+    padding: 0.5vw 2.3vw;
+    cursor: pointer;
+    font-size: max(1vw,13px);
+}
+
+.logout button:hover{
+    border: thin solid tomato;
+    background-color: tomato;
+    color: #141414;
+}
+
