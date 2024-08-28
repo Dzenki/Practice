@@ -1,0 +1,16 @@
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.csproj.AssemblyReference.cache
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.AssemblyInfoInputs.cache
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.AssemblyInfo.cs
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.csproj.CoreCompileInputs.cache
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\bin\Debug\net5.0\laba1.exe
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\bin\Debug\net5.0\laba1.deps.json
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\bin\Debug\net5.0\laba1.runtimeconfig.json
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\bin\Debug\net5.0\laba1.runtimeconfig.dev.json
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\bin\Debug\net5.0\laba1.dll
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\bin\Debug\net5.0\laba1.pdb
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.dll
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\ref\laba1.dll
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.pdb
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\laba1.genruntimeconfig.cache
+C:\Users\79636\Documents\учеба\ООП\laba1\laba1\obj\Debug\net5.0\refint\laba1.dll

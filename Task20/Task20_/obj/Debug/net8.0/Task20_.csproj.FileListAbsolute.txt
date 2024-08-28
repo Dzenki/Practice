@@ -1,0 +1,7 @@
+C:\Users\79636\Documents\учеба\ООП\Практика\Task20\Task20_\obj\Debug\net8.0\Task20_.csproj.AssemblyReference.cache
+C:\Users\79636\Documents\учеба\ООП\Практика\Task20\Task20_\obj\Debug\net8.0\Task20_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79636\Documents\учеба\ООП\Практика\Task20\Task20_\obj\Debug\net8.0\Task20_.AssemblyInfoInputs.cache
+C:\Users\79636\Documents\учеба\ООП\Практика\Task20\Task20_\obj\Debug\net8.0\Task20_.AssemblyInfo.cs
+C:\Users\79636\Documents\учеба\ООП\Практика\Task20\Task20_\obj\Debug\net8.0\Task20_.csproj.CoreCompileInputs.cache
+C:\Users\79636\Documents\учеба\ООП\Практика\Task20\Task20_\obj\Debug\net8.0\Task20_.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\79636\Documents\учеба\ООП\Практика\Task20\Task20_\obj\Debug\net8.0\Task20_.MvcApplicationPartsAssemblyInfo.cache

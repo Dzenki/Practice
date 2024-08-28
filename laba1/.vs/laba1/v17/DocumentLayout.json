@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244AF561-9535-48C0-B182-0E65E9D0C009}|Tests1\\Tests1.csproj|C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\tests1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244AF561-9535-48C0-B182-0E65E9D0C009}|Tests1\\Tests1.csproj|solutionrelative:tests1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C74214-3458-4CD0-B38A-8A70F8743D23}|laba1\\laba1.csproj|c:\\users\\79636\\documents\\\u0443\u0447\u0435\u0431\u0430\\\u043E\u043E\u043F\\laba1\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C74214-3458-4CD0-B38A-8A70F8743D23}|laba1\\laba1.csproj|solutionrelative:laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C74214-3458-4CD0-B38A-8A70F8743D23}|laba1\\laba1.csproj|C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\laba1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C74214-3458-4CD0-B38A-8A70F8743D23}|laba1\\laba1.csproj|solutionrelative:laba1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\Tests1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\Tests1\\UnitTest1.cs",
+              "RelativeToolTip": "Tests1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:53:51.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\laba1\\Program.cs",
+              "RelativeDocumentMoniker": "laba1\\Program.cs",
+              "ToolTip": "C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\laba1\\Program.cs",
+              "RelativeToolTip": "laba1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:53:49.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\laba1\\Class1.cs",
+              "RelativeDocumentMoniker": "laba1\\Class1.cs",
+              "ToolTip": "C:\\Users\\79636\\Documents\\\u0443\u0447\u0435\u0431\u0430\\\u041E\u041E\u041F\\laba1\\laba1\\Class1.cs*",
+              "RelativeToolTip": "laba1\\Class1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:53:47.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

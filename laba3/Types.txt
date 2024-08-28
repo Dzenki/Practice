@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a10ee620-7a64-4d1d-bb1f-cb3b6749cc37",
+    "name": "Ice",
+    "typeImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Type_Ice.png/revision/latest?cb=20220610120329"
+  },
+  {
+    "id": "cad51571-73d2-4e21-8965-f24cc08a78c8",
+    "name": "Fire",
+    "typeImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f0/Type_Fire.png/revision/latest?cb=20220610120131"
+  },
+  {
+    "id": "a0682fdb-ab58-497a-89b5-05febd4f2802",
+    "name": "Physical",
+    "typeImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/69/Type_Physical.png/revision/latest?cb=20220610120901"
+  },
+  {
+    "id": "9c586de1-fe2a-4009-a360-59a94daeafdb",
+    "name": "Lightning",
+    "typeImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Type_Lightning.png/revision/latest?cb=20220610120726"
+  },
+  {
+    "id": "bffe15fb-ec79-46bf-a066-c6d6981b8570",
+    "name": "Wind",
+    "typeImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ec/Type_Wind.png/revision/latest?cb=20220610121015"
+  },
+  {
+    "id": "26666c5b-17be-47b2-816f-0e6e8328039f",
+    "name": "Quantium",
+    "typeImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/54/Type_Quantum.png/revision/latest?cb=20220610121124"
+  },
+  {
+    "id": "b50859be-3dbb-49cc-a251-ccca62d0b364",
+    "name": "Imaginary",
+    "typeImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Type_Imaginary.png/revision/latest?cb=20220610120517"
+  }
+]

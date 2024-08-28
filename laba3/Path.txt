@@ -1,0 +1,37 @@
+[
+  {
+    "id": "e3803db0-8970-4b50-979a-234e94e3abe7",
+    "name": "Destruction",
+    "pathImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Path_Destruction.png/revision/latest?cb=20240417234659"
+  },
+  {
+    "id": "067d04f2-d265-4a81-bf87-0cdf077207f6",
+    "name": "The Hunt",
+    "pathImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Path_The_Hunt.png/revision/latest?cb=20240417235336"
+  },
+  {
+    "id": "0958624b-cefa-4c12-94fe-94055f6e0410",
+    "name": "Erudition",
+    "pathImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Path_Erudition.png/revision/latest?cb=20240417235548"
+  },
+  {
+    "id": "95f8b5cd-b79c-476d-8f10-2c0c9e6ea081",
+    "name": "Harmony",
+    "pathImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/7e/Path_Harmony.png/revision/latest?cb=20240417235441"
+  },
+  {
+    "id": "e7a96f82-2925-4124-bc04-bc357c34819c",
+    "name": "Nihility",
+    "pathImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/45/Path_Nihility.png/revision/latest?cb=20240417235304"
+  },
+  {
+    "id": "17b0354b-893c-4364-b8ad-71add472be98",
+    "name": "Preservation",
+    "pathImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/37/Path_Preservation.png/revision/latest?cb=20240417235425"
+  },
+  {
+    "id": "23c30eec-e2ef-4f28-b744-91c9670f86bd",
+    "name": "Abundance",
+    "pathImageIRL": "https://static.wikia.nocookie.net/houkai-star-rail/images/9/94/Path_Abundance.png/revision/latest?cb=20240417235352"
+  }
+]

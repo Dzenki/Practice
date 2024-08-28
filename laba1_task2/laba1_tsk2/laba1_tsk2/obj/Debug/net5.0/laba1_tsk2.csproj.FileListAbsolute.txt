@@ -1,0 +1,15 @@
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\bin\Debug\net5.0\laba1_tsk2.exe
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\bin\Debug\net5.0\laba1_tsk2.deps.json
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\bin\Debug\net5.0\laba1_tsk2.runtimeconfig.json
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\bin\Debug\net5.0\laba1_tsk2.runtimeconfig.dev.json
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\bin\Debug\net5.0\laba1_tsk2.dll
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\bin\Debug\net5.0\ref\laba1_tsk2.dll
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\bin\Debug\net5.0\laba1_tsk2.pdb
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\laba1_tsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\laba1_tsk2.AssemblyInfoInputs.cache
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\laba1_tsk2.AssemblyInfo.cs
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\laba1_tsk2.csproj.CoreCompileInputs.cache
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\laba1_tsk2.dll
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\ref\laba1_tsk2.dll
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\laba1_tsk2.pdb
+C:\Users\79636\Documents\учеба\ООП\laba1_task2\laba1_tsk2\laba1_tsk2\obj\Debug\net5.0\laba1_tsk2.genruntimeconfig.cache
